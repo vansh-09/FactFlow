@@ -79,7 +79,7 @@ FactFlow/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/factflow.git
+git clone https://github.com/vansh-09/factflow.git
 cd factflow
 
 # Create virtual environment
@@ -155,3 +155,4 @@ Built with ⚡ by [Vansh-09]
 ---
 
 **Status**: 🚧 Active Development | **Target**: Production-ready for HackInfinity 2025
+
