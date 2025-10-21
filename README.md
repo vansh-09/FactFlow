@@ -2,7 +2,7 @@
 
 > An Agentic AI system for real-time misinformation detection and evidence retrieval
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Status](https://img.shields.io/badge/status-in%20development-orange.svg)]()
 
@@ -79,7 +79,7 @@ FactFlow/
 
 ```bash
 # Clone the repository
-git clone https://github.com/vansh-09/factflow.git
+git clone https://github.com/yourusername/factflow.git
 cd factflow
 
 # Create virtual environment
@@ -139,11 +139,18 @@ This project is currently in active development for HackInfinity 2025. Contribut
 
 ## 📄 License
 
-MIT License - see LICENSE file for details
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
+### What this means:
+- ✅ You can use, modify, and distribute this software
+- ✅ You can use it for commercial purposes
+- ⚠️ Any derivative work must also be open-source under GPL-3.0
+- ⚠️ You must disclose the source code when distributing
+- ⚠️ You must include the original license and copyright notice
 
 ## 👨‍💻 Author
 
-Built with ⚡ by [Vansh]
+Built with ⚡ by [Vansh-09]
 
 ---
 
