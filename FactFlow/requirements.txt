@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+shap
+duckduckgo-search
+transformers
+torch
+streamlit
+sentencepiece
